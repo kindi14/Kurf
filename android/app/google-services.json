@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694720176093",
+    "project_id": "kurf-d5fbf",
+    "storage_bucket": "kurf-d5fbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694720176093:android:c29e524f383e98b6ad6034",
+        "android_client_info": {
+          "package_name": "com.example.kurf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5p1tPc4aTuQojMmkdoeZUJgoT2eXHI48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
